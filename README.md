@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hello Freind
 
-<!--
-**r0n0s3c/r0n0s3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDB2ZmN0bW11OHljdm83ZDBpa25qZXBkNG1hZDZ3aGIxYWY3cGRzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently trying to finish all active HTB challenges!
+
+- 🤝 I participate in ctf's at weekends. I post the writeup on [https://github.com/r0n0s3c/ctfs/](https://github.com/r0n0s3c/ctfs/)
+
+- 🌱 Experience in Web and Forensics but have knowledge in about everything related to cyber 
+
+- 📝 I regularly write articles and HTB machines writeups on [mywebsitehere](mywebsitehere)
+
+- 📖 I like to read and I have a list of books that I recomend on [mywebsitehere](mywebsitehere)
+
+- 📫 How to reach me **r0n0s3c_58382**
+
+<br/>
+<h3 align="center" >Connect with me 🤝 </h3>
+
+<p align="center">
+  <!--- Hackthebox Forum: [https://forum.hackthebox.com/u/r0n0/summary](https://forum.hackthebox.com/u/r0n0/summary) -->
+</p>
