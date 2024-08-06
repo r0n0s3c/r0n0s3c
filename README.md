@@ -15,11 +15,9 @@
 
 - 📖 I like to read and I have a list of books that I recomend on [mywebsitehere](mywebsitehere)
 
-- 📫 How to reach me **r0n0s3c_58382**
+- 👹 Other cybersecurity blogs that I recomend on [mywebsitehere](mywebsitehere)
+
+- 📫 How to reach me(discord): **r0n0s3c_58382**
 
 <br/>
 <h3 align="center" >Connect with me 🤝 </h3>
-
-<p align="center">
-  <!--- Hackthebox Forum: [https://forum.hackthebox.com/u/r0n0/summary](https://forum.hackthebox.com/u/r0n0/summary) -->
-</p>
