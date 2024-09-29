@@ -11,11 +11,9 @@
 
 - 🌱 Experience in Web and Forensics but have knowledge in about everything related to cyber 
 
-- 📝 I regularly write articles and HTB machines writeups on [mywebsitehere](mywebsitehere)
+- 📝 I regularly write articles and HTB machines writeups on [https://r0n0.com/posts/](https://r0n0.com/posts/)
 
-- 📖 I like to read and I have a list of books that I recomend on [mywebsitehere](mywebsitehere)
-
-- 👹 Other cybersecurity blogs that I recomend on [mywebsitehere](mywebsitehere)
+- 📖 I like to read and I have a list of books that I recomend on [https://r0n0.com/recs/](https://r0n0.com/recs/)
 
 - 📫 How to reach me(discord): **r0n0s3c_58382**
 
